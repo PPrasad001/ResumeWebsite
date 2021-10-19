@@ -1,0 +1,24 @@
+.achievements {
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  background-color: #bab8b9;
+  background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+}
+
+.achievementsTitle {
+  display: flex;
+  width: 50%;
+  font-size: x-large;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.achievementsDiv {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+  justify-content: center;
+}

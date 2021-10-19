@@ -1,0 +1,24 @@
+.homeDiv {
+  position: relative;
+  height: 100vh;
+  min-height: 500px;
+  width: 100%;
+  background: #161415 url(../assests/header-background.jpg) no-repeat top center;
+  background-size: cover !important;
+  -webkit-background-size: cover !important;
+  text-align: center;
+  overflow: hidden;
+}
+
+.name {
+  margin-top: 10rem;
+  font-size: 5rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.role {
+  font-size: 2.5rem;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}

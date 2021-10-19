@@ -1,0 +1,45 @@
+nav li {
+  display: inline-block;
+  margin-right: 2.5%;
+  margin-left: 2.5%;
+  font-size: 1.2rem;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+nav {
+  text-align: center;
+}
+
+h4 {
+  margin: 0;
+}
+
+li p {
+  position: relative;
+  top: -15px;
+}
+
+table {
+  width: 60%;
+  position: relative;
+  left: -70px;
+}
+
+table td {
+  text-align: center;
+}
+
+table tr {
+  height: 30px;
+}
+
+ul li {
+  padding-bottom: 5px;
+}

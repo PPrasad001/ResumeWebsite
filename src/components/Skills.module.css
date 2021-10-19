@@ -1,0 +1,26 @@
+.skills {
+  display: flex;
+  height: 50vh;
+  flex-direction: row;
+  background-color: #050014;
+  background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
+  overflow: auto;
+  color: white;
+}
+
+.skillsTitle {
+  display: flex;
+  width: 50%;
+  font-size: x-large;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.skillsDiv {
+  width: 50%;
+  display: flex;
+  font-size: large;
+  align-items: center;
+  justify-content: center;
+}

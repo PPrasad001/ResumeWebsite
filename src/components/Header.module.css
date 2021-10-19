@@ -1,0 +1,9 @@
+.headerDiv {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  background-color: #140608;
+  background-image: url("https://www.transparenttextures.com/patterns/french-stucco.png");
+  height: 30px;
+  line-height: 30px;
+}
